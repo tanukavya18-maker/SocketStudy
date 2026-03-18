@@ -99,7 +99,9 @@ client_socket.close()
 ```
 
 ## Output 
-
+![output](image-1.png)
+![output](image-2.png)
+![output](image.png)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
